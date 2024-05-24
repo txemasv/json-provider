@@ -1,0 +1,24 @@
+{
+  "tenants": [
+    {
+      "name": "andromeda",
+      "url": "https://andromeda.tiivii.com"
+    },
+    {
+      "name": "lupus",
+      "url": "https://lupus.tiivii.com"
+    },
+    {
+      "name": "indus",
+      "url": "https://indus.tiivii.com"
+    },
+    {
+      "name": "bolerus",
+      "url": "https://bolerus.tiivii.com"
+    },
+    {
+      "name": "felis",
+      "url": "https://felis.tiivii.com"
+    }
+  ]
+}
