@@ -1,24 +1,28 @@
 {
-  "tenants": [
-    {
-      "name": "aries",
-      "url": "https://aries.tiivii.com"
-    },
-    {
-      "name": "centaurus",
-      "url": "https://centaurus.tiivii.com"
-    },
-    {
-      "name": "escorpio",
-      "url": "https://escorpio.tiivii.com"
-    },
-    {
-      "name": "orion",
-      "url": "https://orion.tiivii.com"
-    },
-    {
-      "name": "pegasus",
-      "url": "https://pegasus.tiivii.com"
-    }
-  ]
+    "tenants": [
+        {
+            "name": "aries",
+            "url": "https://aries.tiivii.com"
+        },
+        {
+            "name": "centaurus",
+            "url": "https://centaurus.tiivii.com"
+        },
+        {
+            "name": "escorpio",
+            "url": "https://escorpio.tiivii.com"
+        },
+        {
+            "name": "orion",
+            "url": "https://orion.tiivii.com"
+        },
+        {
+            "name": "pegasus",
+            "url": "https://pegasus.tiivii.com"
+        },
+        {
+            "name": "lyra",
+            "url": "https://lyra.tiivii.com"
+        }
+    ]
 }
