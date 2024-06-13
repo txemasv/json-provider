@@ -7,6 +7,10 @@
         {
             "name": "virgo",
             "url": "https://virgo.tiivii.com"
+        },
+        {
+            "name": "taurus",
+            "url": "https://taurus.tiivii.com"
         }
     ]
 }
