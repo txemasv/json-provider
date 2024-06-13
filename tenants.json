@@ -11,6 +11,10 @@
         {
             "name": "taurus",
             "url": "https://taurus.tiivii.com"
+        },
+        {
+            "name": "perseus",
+            "url": "https://perseus.tiivii.com"
         }
     ]
 }
