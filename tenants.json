@@ -79,6 +79,10 @@
         {
             "name": "perseus",
             "url": "https://perseus.tiivii.com"
+        },
+        {
+            "name": "andromeda",
+            "url": "https://andromeda.tiivii.com"
         }
     ]
 }
