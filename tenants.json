@@ -15,6 +15,10 @@
         {
             "name": "perseus",
             "url": "https://perseus.tiivii.com"
+        },
+        {
+            "name": "orion",
+            "url": "https://orion.tiivii.com"
         }
     ]
 }
