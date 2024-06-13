@@ -51,6 +51,10 @@
         {
             "name": "virgo",
             "url": "https://virgo.tiivii.com"
+        },
+        {
+            "name": "perseus",
+            "url": "https://perseus.tiivii.com"
         }
     ]
 }
